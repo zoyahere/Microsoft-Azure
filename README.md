@@ -13,5 +13,6 @@ Deployed on microsoft azure platform.
 
 
 ## Authors
-
+ 
+ Ali Zoya Syed
 
